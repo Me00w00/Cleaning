@@ -1,0 +1,300 @@
+time=2026-03-28T16:44:45.472+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T16:45:04.849+03:00 level=INFO msg="login submitted" login=kjbkjkjbn
+time=2026-03-28T16:45:09.499+03:00 level=INFO msg="open registration requested"
+time=2026-03-28T17:10:15.106+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T17:10:15.346+03:00 level=INFO msg="migration applied" version=001_init_schema.sql
+time=2026-03-28T17:10:15.432+03:00 level=INFO msg="default admin created" login=admin
+time=2026-03-28T17:11:36.826+03:00 level=INFO msg="login submitted" login=admin
+time=2026-03-28T17:23:28.209+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T17:23:28.220+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T17:23:28.220+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T17:39:31.833+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T17:39:31.834+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T17:39:31.834+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T17:43:53.819+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T17:43:53.821+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T17:43:53.821+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T17:44:06.740+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-28T17:51:07.042+03:00 level=INFO msg="user created by admin" login=Nastya role=staff
+time=2026-03-28T17:52:32.665+03:00 level=INFO msg="login successful" login=Nastya role=staff
+time=2026-03-28T18:12:59.044+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T18:12:59.054+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T18:12:59.054+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T18:13:56.212+03:00 level=INFO msg="client registered" login=client1
+time=2026-03-28T18:14:10.177+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T18:16:34.025+03:00 level=INFO msg="client order created" client_id=3 service_type=general_cleaning
+time=2026-03-28T18:24:34.814+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T18:24:34.823+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T18:24:34.823+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T18:24:55.460+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T18:25:36.977+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-28T18:31:58.874+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T18:31:58.877+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T18:31:58.877+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T18:32:35.040+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T18:47:50.471+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T18:47:50.473+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T18:47:50.473+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T18:48:01.763+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T18:48:24.020+03:00 level=INFO msg="client order created" client_id=3 service_type=general_cleaning
+time=2026-03-28T18:49:52.469+03:00 level=INFO msg="client order created" client_id=3 service_type=basic_cleaning
+time=2026-03-28T18:51:19.493+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-28T18:52:12.563+03:00 level=INFO msg="user created by admin" login=manager role=manager
+time=2026-03-28T18:52:18.961+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-28T19:02:28.337+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T19:02:28.339+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T19:02:28.340+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T19:02:31.817+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-28T19:07:25.790+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T19:07:25.793+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T19:07:25.793+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T19:07:30.104+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-28T19:18:26.097+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T19:18:26.099+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T19:18:26.099+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T19:18:36.373+03:00 level=INFO msg="login successful" login=Nastya role=staff
+time=2026-03-28T19:19:39.639+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-28T19:29:18.981+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T19:29:18.984+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T19:29:18.984+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T19:34:56.738+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T19:34:56.741+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T19:34:56.741+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T19:35:05.303+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-28T19:35:41.917+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T19:36:10.934+03:00 level=INFO msg="login successful" login=Nastya role=staff
+time=2026-03-28T19:38:46.054+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T19:38:46.057+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T19:38:46.057+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T19:38:58.393+03:00 level=INFO msg="login successful" login=Nastya role=staff
+time=2026-03-28T19:44:11.687+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T19:44:11.691+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T19:44:11.691+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T19:44:22.479+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-28T20:00:38.630+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T20:00:38.632+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T20:00:38.632+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T20:00:44.780+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T20:01:19.473+03:00 level=INFO msg="client order created" client_id=3 service_type=basic_cleaning
+time=2026-03-28T20:01:21.362+03:00 level=INFO msg="client order created" client_id=3 service_type=basic_cleaning
+time=2026-03-28T20:05:39.079+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T20:05:39.081+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T20:05:39.081+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T20:06:05.135+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T20:07:51.621+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T20:07:51.623+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T20:07:51.623+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T20:07:55.574+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T20:13:28.194+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-28T20:13:28.197+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-28T20:13:28.197+03:00 level=INFO msg="default admin already exists"
+time=2026-03-28T20:13:31.056+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-28T20:14:03.021+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-28T20:14:56.320+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-28T20:15:32.448+03:00 level=INFO msg="user created by admin" login=Rab1 role=staff
+time=2026-03-28T20:15:43.707+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-29T23:03:57.052+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-29T23:03:57.069+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-29T23:03:57.069+03:00 level=INFO msg="default admin already exists"
+time=2026-03-29T23:04:32.560+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-29T23:05:04.410+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T17:50:00.019+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T17:50:00.022+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T17:50:00.022+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T17:52:08.998+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T17:52:09.007+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T17:52:09.007+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T17:54:23.607+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T17:54:23.609+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T17:54:23.609+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T17:54:34.656+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-30T17:54:47.793+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-30T17:55:41.306+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T19:09:03.643+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T19:09:03.646+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T19:09:04.432+03:00 level=INFO msg="migration applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T19:09:04.432+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T19:09:11.001+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-30T19:10:29.268+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T19:10:40.148+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T19:11:02.933+03:00 level=INFO msg="client order created" client_id=3 service_type=basic_cleaning
+time=2026-03-30T19:11:11.296+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T19:11:26.894+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T19:11:26.896+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T19:11:26.896+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T19:11:26.896+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T19:11:29.422+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T19:12:12.968+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T19:12:12.970+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T19:12:12.970+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T19:12:12.970+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T19:12:19.455+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-30T19:12:39.452+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T19:13:28.107+03:00 level=INFO msg="client order created" client_id=3 service_type=basic_cleaning
+time=2026-03-30T19:13:34.534+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T19:55:37.359+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T19:55:37.365+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T19:55:37.365+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T19:55:37.365+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T19:55:43.249+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T19:55:53.848+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T19:56:39.642+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T19:56:39.644+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T19:56:39.644+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T19:56:39.644+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T19:56:49.213+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T19:57:09.943+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T20:48:25.989+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T20:48:25.991+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T20:48:25.991+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T20:48:25.991+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T20:48:32.656+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T20:48:58.056+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T21:10:09.977+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T21:10:09.979+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T21:10:09.979+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T21:10:09.979+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T21:10:16.299+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T21:10:52.167+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T21:12:22.377+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T21:12:22.379+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T21:12:22.379+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T21:12:22.379+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T21:12:26.524+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-03-30T21:12:59.863+03:00 level=INFO msg="client order created" client_id=3 service_type=basic_cleaning
+time=2026-03-30T21:13:24.691+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-30T21:14:02.759+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T21:14:02.760+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T21:14:02.760+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T21:14:02.761+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T21:14:08.988+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T21:38:23.881+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T21:38:23.883+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T21:38:23.883+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T21:38:23.883+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T21:38:28.986+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T21:50:25.341+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T21:50:25.343+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T21:50:25.343+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T21:50:25.343+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T22:45:55.713+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T22:45:55.715+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T22:45:55.715+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T22:45:55.715+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T22:51:15.157+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-30T22:54:58.151+03:00 level=INFO msg="client registered" login=Client2
+time=2026-03-30T22:55:02.586+03:00 level=INFO msg="login successful" login=Client2 role=client
+time=2026-03-30T22:56:23.908+03:00 level=INFO msg="client order created" client_id=6 service_type=basic_cleaning
+time=2026-03-30T22:57:22.353+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T22:58:10.716+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T22:58:10.718+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T22:58:10.718+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T22:58:10.718+03:00 level=INFO msg="default admin already exists"
+time=2026-03-30T22:58:25.052+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-30T22:59:33.066+03:00 level=INFO msg="user created by admin" login=Rabotnik role=staff
+time=2026-03-30T22:59:41.804+03:00 level=INFO msg="login successful" login=Rabotnik role=staff
+time=2026-03-30T23:00:00.150+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-30T23:00:18.206+03:00 level=INFO msg="login successful" login=Rabotnik role=staff
+time=2026-03-30T23:46:38.871+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-30T23:46:39.244+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-30T23:46:39.244+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-30T23:46:39.244+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T18:23:52.285+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T18:23:52.319+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T18:23:52.319+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T18:23:52.319+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T18:29:10.841+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T18:29:10.843+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T18:29:10.843+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T18:29:10.844+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T18:29:34.114+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-31T18:50:32.222+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T18:50:32.224+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T18:50:32.225+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T18:50:32.225+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T18:50:43.107+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-31T19:06:02.685+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:06:02.689+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:06:02.689+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:06:02.689+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:06:08.583+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-31T19:07:34.411+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:07:34.416+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:07:34.416+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:07:34.416+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:07:39.537+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-31T19:20:00.874+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:20:01.315+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:20:01.315+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:20:01.315+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:22:34.481+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:22:34.483+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:22:34.483+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:22:34.483+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:31:14.068+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:31:14.088+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:31:14.088+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:31:14.088+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:31:18.954+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-31T19:31:47.547+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:31:47.549+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:31:47.549+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:31:47.549+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:31:59.861+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-03-31T19:32:14.276+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-03-31T19:32:30.662+03:00 level=INFO msg="login successful" login=Client2 role=client
+time=2026-03-31T19:38:37.938+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:38:37.941+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:38:37.941+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:38:37.941+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:38:43.469+03:00 level=INFO msg="login successful" login=Client2 role=client
+time=2026-03-31T19:50:22.603+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T19:50:22.605+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T19:50:22.605+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T19:50:22.605+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T19:50:30.275+03:00 level=INFO msg="login successful" login=Client2 role=client
+time=2026-03-31T21:03:29.048+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T21:03:29.061+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T21:03:29.061+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T21:03:29.061+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T21:04:00.632+03:00 level=INFO msg="login successful" login=Client2 role=client
+time=2026-03-31T21:05:31.126+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-31T21:10:05.693+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T21:10:05.709+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T21:10:05.709+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T21:10:05.709+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T21:10:12.037+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-03-31T21:12:40.599+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T21:12:40.602+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T21:12:40.602+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T21:12:40.602+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T21:14:35.529+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-03-31T21:14:35.533+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-03-31T21:14:35.533+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-03-31T21:14:35.533+03:00 level=INFO msg="default admin already exists"
+time=2026-03-31T21:14:43.446+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-04-02T19:28:19.887+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-04-02T19:28:19.952+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-04-02T19:28:19.952+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-04-02T19:28:19.952+03:00 level=INFO msg="default admin already exists"
+time=2026-04-02T19:29:16.605+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-04-02T19:29:16.615+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-04-02T19:29:16.615+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-04-02T19:29:16.615+03:00 level=INFO msg="default admin already exists"
+time=2026-04-02T19:29:28.603+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-04-02T19:30:30.201+03:00 level=INFO msg="login successful" login=client1 role=client
+time=2026-04-02T19:31:33.021+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-04-02T19:32:04.449+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-04-02T19:32:54.249+03:00 level=INFO msg="login successful" login=Rab1 role=staff
+time=2026-04-02T20:52:15.509+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-04-02T20:52:15.565+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-04-02T20:52:15.565+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-04-02T20:52:15.565+03:00 level=INFO msg="default admin already exists"
+time=2026-04-02T20:52:23.775+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-04-05T19:41:13.107+03:00 level=INFO msg="starting application" db_path=D:\develop\go\project_cleaning\db\cleaning.sqlite app_name="Cleaning Agency"
+time=2026-04-05T19:41:13.111+03:00 level=INFO msg="migration already applied" version=001_init_schema.sql
+time=2026-04-05T19:41:13.111+03:00 level=INFO msg="migration already applied" version=002_staff_unavailability_timestamps.sql
+time=2026-04-05T19:41:13.111+03:00 level=INFO msg="default admin already exists"
+time=2026-04-05T19:42:25.814+03:00 level=INFO msg="login successful" login=manager role=manager
+time=2026-04-05T19:44:20.831+03:00 level=INFO msg="login successful" login=admin role=admin
+time=2026-04-05T19:44:54.816+03:00 level=INFO msg="login successful" login=client1 role=client
